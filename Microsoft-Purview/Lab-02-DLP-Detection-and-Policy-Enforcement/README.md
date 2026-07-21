@@ -176,7 +176,7 @@ The policy successfully detected sensitive information and enforced organization
 
 ## 1. Policy Synchronization
 
-![Policy Synchronization](screenshots/01-Policy-Synchronization-Completed.png)
+![Policy Synchronization](screenshots/01-Policy-Synchronization-Completed..png)
 
 ---
 
