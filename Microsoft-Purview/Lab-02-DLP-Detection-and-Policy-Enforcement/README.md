@@ -176,67 +176,67 @@ The policy successfully detected sensitive information and enforced organization
 
 ## 1. Policy Synchronization
 
-![Policy Sync](screenshots/01-policy-sync-completed.png)
+![Policy Synchronization](screenshots/01-Policy-Synchronization-Completed.png)
 
 ---
 
 ## 2. Upload Test File
 
-![Upload File](screenshots/02-upload-test-file.png)
+![Upload Test File](screenshots/02-Uploading-Test-File-to-OneDrive.png)
 
 ---
 
-## 3. File Uploaded Successfully
+## 3. File Uploaded
 
-![File Uploaded](screenshots/03-file-uploaded-successfully.png)
-
----
-
-## 4. Share File through Microsoft Teams
-
-![Teams Share](screenshots/04-share-file-teams.png)
+![File Uploaded](screenshots/03-Test-File-Uploaded-to-OneDrive.png)
 
 ---
 
-## 5. Policy Tip Displayed
+## 4. DLP Alert Generated
 
-![Policy Tip](screenshots/05-policy-tip-displayed.png)
-
----
-
-## 6. Teams Sharing Attempt
-
-![Teams Sharing](screenshots/06-teams-sharing-attempt.png)
+![Alert Generated](screenshots/04-DLP-Alert-Generated.png)
 
 ---
 
-## 7. Access Restricted
+## 5. Activity Explorer
 
-![Access Restricted](screenshots/07-access-restricted.png)
-
----
-
-## 8. DLP Alert Generated
-
-![Alert](screenshots/08-dlp-alert-generated.png)
+![Activity Explorer](screenshots/05-Activity-Explorer-DLP-Event.png)
 
 ---
 
-## 9. Alert Investigation
+## 6. Restricted Sharing Link
 
-![Alert Investigation](screenshots/09-alert-investigation.png)
-
----
-
-## 10. Activity Explorer
-
-![Activity Explorer](screenshots/10-activity-explorer.png)
+![Restricted Sharing](screenshots/06-Restricted-Sharing-Link.png)
 
 ---
 
-## 11. DLP Rule Details
+## 7. Teams Share Attempt
 
-![Rule Details](screenshots/11-dlp-rule-details.png)
+![Teams Share Attempt](screenshots/07-Teams-Share-Attempt.png)
+
+---
+
+## 8. Recipient Receives Link
+
+![Recipient Receives Link](screenshots/08-Recipient-Receives-Shared-Link.png)
+
+---
+
+## 9. Access Blocked
+
+![Access Blocked](screenshots/09-Access-Blocked-for-Recipient.png)
+
+---
+
+## 10. Policy Tip Displayed
+
+![Policy Tip](screenshots/10-Policy-Tip-Displayed.png)
+
+---
+
+## 11. Policy Tip Details
+
+![Policy Tip Details](screenshots/11-Policy-Tip-Details.png)
 
 ---
 
