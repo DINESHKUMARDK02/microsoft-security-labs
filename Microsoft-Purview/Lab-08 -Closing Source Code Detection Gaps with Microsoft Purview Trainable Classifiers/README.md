@@ -31,7 +31,6 @@
 - [Results](#results)
 - [Key Engineering Takeaways](#key-engineering-takeaways)
 - [Skills Demonstrated](#skills-demonstrated)
-- [Repository Structure](#repository-structure)
 - [Security and Privacy Notice](#security-and-privacy-notice)
 
 ---
