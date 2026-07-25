@@ -400,7 +400,13 @@ This repository contains only synthetic lab content. Before publishing screensho
 
 ---
 
-<p align="center">
-  <i>Built as part of a Microsoft Security / Microsoft Purview hands-on lab portfolio.</i>
-</p>
+## Author
+
+**Dinesh Kumar**
+
+Cybersecurity | Data Loss Prevention | Microsoft Purview | Information Protection
+
+---
+
+⭐ This repository is part of a hands-on cybersecurity portfolio focused on **Data Loss Prevention engineering, Microsoft Purview, information protection, policy tuning and data security**.
 
