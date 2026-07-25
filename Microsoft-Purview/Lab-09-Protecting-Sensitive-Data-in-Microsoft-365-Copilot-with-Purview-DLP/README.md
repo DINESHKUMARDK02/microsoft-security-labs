@@ -683,7 +683,7 @@ This illustrates a core DLP engineering principle:
 
 ---
 
-## 👤 Author
+## Author
 
 **Dinesh Kumar**
 
