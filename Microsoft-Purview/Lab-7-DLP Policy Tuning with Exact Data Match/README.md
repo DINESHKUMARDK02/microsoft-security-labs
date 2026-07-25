@@ -917,43 +917,6 @@ The final control therefore provides **more precise customer-data protection whi
 
 ---
 
-## 📁 Repository Structure
-
-```text
-Lab-07-Purview-DLP-EDM-Tuning/
-│
-├── README.md
-│
-└── screenshots/
-    ├── 01-custom-sit.png
-    ├── 02-customer-id-pattern.png
-    ├── 03-sit-configuration.png
-    ├── 04-baseline-dlp-policy.png
-    ├── 05-baseline-dlp-rule.png
-    ├── 06-policy-sync.png
-    ├── 07-true-positive-test.png
-    ├── 08-email-blocked.png
-    ├── 09-dlp-alert.png
-    ├── 10-false-positive-document.png
-    ├── 11-false-positive-blocked.png
-    ├── 12-false-positive-alert.png
-    ├── 13-edm-schema.png
-    ├── 14-edm-configuration.png
-    ├── 15-edm-upload.png
-    ├── 16-edm-index-complete.png
-    ├── 17-edm-tuned-policy.png
-    ├── 18-edm-rule-condition.png
-    ├── 19-edm-enforcement.png
-    ├── 20-edm-policy-sync.png
-    ├── 21-test-edm-false-positive-record.png
-    ├── 22-edm-false-positive-not-blocked.png
-    ├── 23-test-edm-true-positive-record.png
-    ├── 24-edm-true-positive-email-blocked.png
-    └── 25-edm-true-positive-dlp-alert.png
-```
-
----
-
 ## ⚠️ Lab Disclaimer
 
 This project was completed in a controlled Microsoft 365 lab/demo environment using synthetic Contoso data.
@@ -962,7 +925,7 @@ No production customer information or confidential organisational data is includ
 
 ---
 
-## 👤 Author
+## Author
 
 **Dinesh Kumar**
 
