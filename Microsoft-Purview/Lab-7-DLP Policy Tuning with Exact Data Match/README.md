@@ -635,7 +635,7 @@ Therefore, a genuine customer record was tested again.
 
 ### Screenshot 23 — EDM True-Positive Test
 
-![EDM True Positive](screenshots/23-test-edm-true-positive-record.png)
+![EDM True Positive](screenshots/23-test-edm-True-positive-record.png)
 
 The email contains the customer record represented in the EDM-protected data.
 
