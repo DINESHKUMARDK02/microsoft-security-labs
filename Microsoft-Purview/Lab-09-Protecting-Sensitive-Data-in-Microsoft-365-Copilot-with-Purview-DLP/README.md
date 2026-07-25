@@ -276,7 +276,7 @@ Restrict processing prompts
 
 Alerting was also enabled for administrative investigation.
 
-![DLP rule condition](screenshots/04-copilot-dlp-rule-sensitive-info-condition.png)
+![DLP rule condition](screenshots/04-copilot-dlp-rule-sensitive-info-conditio.png)
 
 ### Why Content-Based Detection?
 
