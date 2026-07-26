@@ -339,4 +339,17 @@ Through this lab, I gained hands-on experience with Microsoft Purview Informatio
 
 ---
 
-⭐ If you found this project useful, feel free to explore the other Microsoft Purview DLP labs in this repository.
+# 👨‍💻 Author
+
+**Dinesh Kumar**
+
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
+
+---
+
+<p align="center">
+
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
