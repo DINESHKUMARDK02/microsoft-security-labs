@@ -593,10 +593,17 @@ The end-to-end validation showcased the complete DLP lifecycle—from policy cre
 
 ---
 
-## Author
+# 👨‍💻 Author
 
 **Dinesh Kumar**
 
-Cyber Security | Microsoft Purview DLP | Microsoft 365 Security | Data Protection | Security Operations
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
 
 ---
+
+<p align="center">
+
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
