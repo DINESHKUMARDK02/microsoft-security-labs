@@ -399,14 +399,18 @@ Same source-code content
 This repository contains only synthetic lab content. Before publishing screenshots from a personal tenant, redact or replace personal email addresses, tenant identifiers, user names, subscription information, and any other tenant-specific data.
 
 ---
-
-## Author
+# 👨‍💻 Author
 
 **Dinesh Kumar**
 
-Cybersecurity | Data Loss Prevention | Microsoft Purview | Information Protection
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
 
 ---
 
-⭐ This repository is part of a hands-on cybersecurity portfolio focused on **Data Loss Prevention engineering, Microsoft Purview, information protection, policy tuning and data security**.
+<p align="center">
 
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
+---
