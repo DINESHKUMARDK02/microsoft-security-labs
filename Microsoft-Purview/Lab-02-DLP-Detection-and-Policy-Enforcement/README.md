@@ -261,3 +261,18 @@ The policy successfully detected sensitive information and enforced organization
 This lab demonstrates an end-to-end Microsoft Purview DLP enforcement workflow—from detecting sensitive information during file sharing to automatically enforcing security controls, generating alerts, and enabling investigation through Activity Explorer.
 
 The implementation reflects how enterprise security teams use Microsoft Purview to protect confidential business data within Microsoft 365 environments.
+
+# 👨‍💻 Author
+
+**Dinesh Kumar**
+
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
+
+---
+
+<p align="center">
+
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
