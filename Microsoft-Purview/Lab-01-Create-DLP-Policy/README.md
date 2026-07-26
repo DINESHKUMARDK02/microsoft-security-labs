@@ -449,3 +449,18 @@ During this lab I successfully:
 This lab demonstrates the complete lifecycle of implementing and validating a Microsoft Purview Data Loss Prevention policy—from policy creation and deployment to detection, alert generation, and investigation.
 
 Although the uploaded file remained accessible to the owner and no Policy Tip was displayed during the OneDrive web upload, the successful DLP rule match, alert generation, and Activity Explorer logs confirmed that the policy functioned as expected within the tested scenario.
+
+# 👨‍💻 Author
+
+**Dinesh Kumar**
+
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
+
+---
+
+<p align="center">
+
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
