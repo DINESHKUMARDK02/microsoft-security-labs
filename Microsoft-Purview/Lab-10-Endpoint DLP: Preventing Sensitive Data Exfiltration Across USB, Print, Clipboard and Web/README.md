@@ -224,7 +224,7 @@ The blocked-actions dialog recorded both the USB and print restrictions for the 
 
 The public product-information document was selected for upload to Google Drive.
 
-![Public file Google Drive upload selection](screenshots/20-public-file-google-drive-upload-selection.png)
+![Public file Google Drive upload selection](screenshots/20-public-file-google-drive-upload-selection..png)
 
 The upload completed successfully.
 
