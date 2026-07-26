@@ -317,8 +317,17 @@ This lab demonstrates practical experience in designing, deploying, testing, and
 
 ---
 
+# 👨‍💻 Author
+
+**Dinesh Kumar**
+
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
+
+---
+
 <p align="center">
-<b>Author</b><br>
-Dinesh Kumar<br>
-Microsoft Purview DLP | Microsoft 365 Security | Cybersecurity Portfolio
+
+**⭐ If you found this project useful, consider starring the repository.**
+
 </p>
+
