@@ -925,13 +925,18 @@ No production customer information or confidential organisational data is includ
 
 ---
 
-## Author
+# 👨‍💻 Author
 
 **Dinesh Kumar**
 
-Cybersecurity | Data Loss Prevention | Microsoft Purview | Information Protection
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
 
 ---
 
-⭐ This repository is part of a hands-on cybersecurity portfolio focused on **Data Loss Prevention engineering, Microsoft Purview, information protection, policy tuning and data security**.
+<p align="center">
 
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
+---
