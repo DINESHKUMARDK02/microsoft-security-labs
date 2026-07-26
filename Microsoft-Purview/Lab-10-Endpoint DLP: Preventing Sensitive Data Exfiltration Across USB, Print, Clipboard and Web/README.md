@@ -353,8 +353,18 @@ This approach reduces unnecessary disruption while protecting sensitive business
 
 This lab was completed in a controlled Microsoft 365 demonstration environment using synthetic Contoso data. No production customer information, credentials, or confidential organizational data is included.
 
-## Author
+# 👨‍💻 Author
 
 **Dinesh Kumar**
 
-Microsoft Security | Data Loss Prevention | Microsoft Purview | Endpoint Security
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
+
+---
+
+<p align="center">
+
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
+---
