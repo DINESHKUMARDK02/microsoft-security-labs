@@ -1,5 +1,3 @@
-Sure. For the **`Microsoft-Defender/README.md`**, keep it simple since individual labs will contain the detailed documentation.
-
 ```markdown
 # 🛡️ Microsoft Defender Labs
 
