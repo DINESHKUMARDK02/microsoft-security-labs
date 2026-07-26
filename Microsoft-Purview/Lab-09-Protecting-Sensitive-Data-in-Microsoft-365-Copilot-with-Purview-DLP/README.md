@@ -682,17 +682,20 @@ This illustrates a core DLP engineering principle:
 > **Effective DLP is not only about blocking sensitive data. It requires balancing detection coverage, precision, business usability, enforcement, and investigation capability.**
 
 ---
+⭐ This repository documents hands-on Microsoft security labs focused on practical DLP policy design, implementation, testing, tuning, and investigation.
 
-## Author
+# 👨‍💻 Author
 
 **Dinesh Kumar**
 
-Microsoft Security & Data Loss Prevention Lab Portfolio
-
-Technologies demonstrated across the portfolio include:
-
-`Microsoft Purview` · `DLP` · `Information Protection` · `Exact Data Match` · `Trainable Classifiers` · `Microsoft 365 Copilot` · `Exchange Online` · `Microsoft Teams`
+Cybersecurity Engineer | Microsoft Purview | Microsoft 365 Security | Data Loss Prevention
 
 ---
 
-⭐ This repository documents hands-on Microsoft security labs focused on practical DLP policy design, implementation, testing, tuning, and investigation.
+<p align="center">
+
+**⭐ If you found this project useful, consider starring the repository.**
+
+</p>
+
+---
