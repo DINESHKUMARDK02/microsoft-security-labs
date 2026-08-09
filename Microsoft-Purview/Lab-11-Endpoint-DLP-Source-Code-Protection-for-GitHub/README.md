@@ -145,7 +145,7 @@ The Chrome extension is present on the test device.
 
 The GitHub upload attempt is blocked and displays the configured Microsoft Purview notification.
 
-(images/02-edge-github-upload-file-picker.png)
+![Microsoft Edge GitHub upload](images/02-edge-github-upload-file-picker.png)
 
 ![Microsoft Edge GitHub upload blocked](images/03-edge-github-upload-blocked-purview-policy.png)
 
@@ -159,7 +159,7 @@ Activity explorer provides the authoritative browser attribution: the applicatio
 
 The Chrome upload attempt is blocked and displays the Data Loss Prevention notification.
 
-(images/05-chrome-github-upload-file-picker.png)
+![Google Chrome GitHub upload](images/05-chrome-github-upload-file-picker.png)
 
 ![Google Chrome GitHub upload blocked](images/06-chrome-github-upload-blocked-purview-policy.png)
 
